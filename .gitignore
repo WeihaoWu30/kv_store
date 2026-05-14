@@ -1,0 +1,36 @@
+# Build
+build/
+cmake-build-*/
+out/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# Binaries
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# Testing
+Testing/
+
+# IDEs
+.vscode/
+.idea/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Logs / profiling
+*.log
+*.perf
